@@ -68,8 +68,7 @@ endmodule
 
 ### Full Subtractor
 
-![rtl viewer fullsub04](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/d658a75a-9ad5-4ff2-8fae-bebd3a96ae75)
-
+![rtl viewer 4th experiment](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/b91e4493-c685-4db8-89db-e4104131ef4c)
 
 
 ## Timing diagram 

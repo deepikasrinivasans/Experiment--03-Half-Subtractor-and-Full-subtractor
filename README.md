@@ -1,10 +1,11 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+## Name: Deepika S
+## Register Number: 212222230028
+# Experiment 04 Half Subtractor and Full Subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
-
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
+Hardware – PCs, Cyclone II , USB flasher
 ## Software – Quartus prime
 ## Theory
 Subtractor circuits take two binary numbers as input and subtract one binary number input from the other binary number input. Similar to adders, it gives out two outputs, difference and borrow (carry-in the case of Adder). There are two types of subtractors.
@@ -25,27 +26,50 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
-## Procedure
+## PROCEDURE:
 
 
 
 Write the detailed procedure here 
 
 
-## Program:
-/*
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+## PROGRAM:
+```
+Developed by: Deepika S
+RegisterNumber: 212222230028
+```
+### Half Subtractor:
+```
+module EX04(a,b,difference,borrow);
+input a,b;
+output difference,borrow;
+wire x;
+xor (difference,a,b);
+not (x,a);
+and (borrow,x,b);
+endmodule
+```
 
-## Output:
+### Full Subtractor:
+```
+module FullSub04(a,b,bin,difference,borrow);
+input a,b,bin;
+output difference,borrow;
+wire p;
+assign difference=((a^b)^bin);
+not (p,a);
+assign borrow=((p&b)|(p&bin)|(b&bin));
+endmodule
+```
+## RTL Diagram:
+### Half Subtractor
 
-## Truthtable
+![rtl viewer 4th exp](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/95fadd91-9046-4282-85cc-ecc973b65c24)
 
+### Full Subtractor
 
+![rtl viewer fullsub04](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/d658a75a-9ad5-4ff2-8fae-bebd3a96ae75)
 
-##  RTL realization
 
 
 ## Timing diagram 

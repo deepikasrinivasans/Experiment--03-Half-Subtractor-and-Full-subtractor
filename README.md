@@ -69,16 +69,12 @@ endmodule
 ![rtl viewer 4th experiment](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/b91e4493-c685-4db8-89db-e4104131ef4c)
 ## TRUTH TABLE:
 ### Half Subtractor
-
-
+![truthtable halfsub](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/248a6bc1-bea5-4720-98aa-d793dfe47254)
 ### Full Subtractor
-
-
+![truthtablefullsub](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/8a487467-cf75-4b40-9dbd-118fbdf6f934)
 ## OUTPUT WAVEFORM:
 ### Half Subtractor
 ![WAVEFORM4](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/f32a9100-1e29-4929-aaae-947cd6cf8e8f)
-
-
 ### Full Subtractor
 
 

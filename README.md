@@ -1,7 +1,7 @@
 ## Name: Deepika S
 ## Register Number: 212222230028
 # Experiment 04 Half Subtractor and Full Subtractor
-## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
+## Implementation of Half subtractor and Full subtractor circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 ## Equipments Required:
@@ -63,15 +63,24 @@ endmodule
 ```
 ## RTL Diagram:
 ### Half Subtractor
-
 ![rtl viewer 4th exp](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/95fadd91-9046-4282-85cc-ecc973b65c24)
 
 ### Full Subtractor
-
 ![rtl viewer 4th experiment](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/b91e4493-c685-4db8-89db-e4104131ef4c)
+## TRUTH TABLE:
+### Half Subtractor
 
 
-## Timing diagram 
+### Full Subtractor
+
+
+## OUTPUT WAVEFORM:
+### Half Subtractor
+![WAVEFORM4](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/f32a9100-1e29-4929-aaae-947cd6cf8e8f)
+
+
+### Full Subtractor
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.

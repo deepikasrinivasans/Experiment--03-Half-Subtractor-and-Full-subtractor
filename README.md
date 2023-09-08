@@ -95,7 +95,6 @@ endmodule
 ### Half Subtractor
 ![WAVEFORM4](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/f32a9100-1e29-4929-aaae-947cd6cf8e8f)
 ### Full Subtractor
-
-
+![waveformfullsub](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/0b9b3ae9-9ef4-45c3-98a1-b3e5a7739fda)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.

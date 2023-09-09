@@ -46,7 +46,7 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
    - Review and fix any issues in your code if necessary.
    - View the RTL diagram.
 
-6.Verification:
+6. Verification:
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.

@@ -41,12 +41,12 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
    - To compile the project, click on "Processing" > "Start Compilation" in the menu.
    - Quartus will analyze your code, synthesize it into a netlist, and perform optimizations based on your target FPGA device.
 
-5. Analyze and Fix Errors:*
+5. Analyze and Fix Errors:
    - If there are any errors or warnings during the compilation process, Quartus will display them in the Messages window.
    - Review and fix any issues in your code if necessary.
    - View the RTL diagram.
 
-6.*Verification:
+6.Verification:
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.

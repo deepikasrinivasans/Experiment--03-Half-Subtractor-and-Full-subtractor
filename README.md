@@ -89,6 +89,17 @@ not (p,a);
 assign borrow=((p&b)|(p&bin)|(b&bin));
 endmodule
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## RTL Diagram:
 ### Half Subtractor
 ![rtl viewer 4th exp](https://github.com/deepikasrinivasans/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119393935/95fadd91-9046-4282-85cc-ecc973b65c24)

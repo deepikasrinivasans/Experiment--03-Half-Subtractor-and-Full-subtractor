@@ -99,6 +99,9 @@ endmodule
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## RTL Diagram:
 ### Half Subtractor

@@ -57,6 +57,9 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 
 <br>
+<br>
+<br>
+<br>
 
 ## PROGRAM:
 ```

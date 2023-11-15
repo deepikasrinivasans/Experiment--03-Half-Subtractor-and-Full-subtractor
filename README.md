@@ -1,6 +1,10 @@
 ## Name: Deepika S
 ## Register Number: 212222230028
-# Experiment 04 Half Subtractor and Full Subtractor
+# Ex 04 Half Subtractor and Full Subtractor
+## Date: 22.09.2023
+
+<br>
+
 ## Implementation of Half subtractor and Full subtractor circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.

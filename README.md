@@ -3,8 +3,6 @@
 # Ex 04 Half Subtractor and Full Subtractor
 ## Date: 22.09.2023
 
-<br>
-
 ## Implementation of Half subtractor and Full subtractor circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -12,6 +10,10 @@ To design a half subtractor and full subtractor circuit and verify its truth tab
 Hardware – PCs, Cyclone II , USB flasher Software – Quartus prime
 ## Theory
 Subtractor circuits take two binary numbers as input and subtract one binary number input from the other binary number input. Similar to adders, it gives out two outputs, difference and borrow (carry-in the case of Adder). There are two types of subtractors.
+
+<br>
+<br>
+<br>
 
 ## Half Subtractor Full Subtractor
 ## Half Subtractor
